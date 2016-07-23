@@ -29,7 +29,7 @@ Example: this pull request is `:plato:`
 
 When you've realised your tests aren't actually testing anything, your CI server is randomly crashing, or you're having other trouble trying to create a reproducible process, drop a :karl-popper: facepalm into the conversation.
 
-Example: We have a Heisenbug in our deployment: exactly the same setup worked yesterday but is broken today! :karl-popper:
+Example: We have a Heisenbug in our deployment: exactly the same setup worked yesterday but is broken today! `:karl-popper:`
 
 ### Kierkegaard
 
@@ -53,7 +53,7 @@ Example: I've seen things you people wouldn't believe. Theorems on fire off the 
 
 Have you got first world problems? If so, you've got a friend in :sartre:
 
-Example: I can't believe they ordered the wrong type of coffee *two days in a row* :sartre:
+Example: I can't believe they ordered the wrong type of coffee *two days in a row* `:sartre:`
 
 ### Socrates
 
@@ -61,7 +61,7 @@ Example: I can't believe they ordered the wrong type of coffee *two days in a ro
 
 Did someone just answer your question with a question? Drop a :socrates: to let them know you're not falling for that shit.
 
-Example: Thanks. How about you just answer the question? :socrates:
+Example: Thanks. How about you just answer the question? `:socrates:`
 
 ### Marx
 
@@ -69,4 +69,4 @@ Example: Thanks. How about you just answer the question? :socrates:
 
 What to let everyone know we're all in it together? Throw in a :karl-marx: to show your comrades that you are united in their struggle.
 
-Example: Comrades, a hunger is sweeping Europe, a hunger for pizza. Who will stand with me so that the workers might eat? :karl-marx:
+Example: Comrades, a hunger is sweeping Europe, a hunger for pizza. Who will stand with me so that the workers might eat? `:karl-marx:`
