@@ -70,3 +70,11 @@ Example: Thanks. How about you just answer the question? `:socrates:`
 What to let everyone know we're all in it together? Throw in a `:karl-marx:` to show your comrades that you are united in their struggle.
 
 Example: Comrades, a hunger is sweeping Europe, a hunger for pizza. Who will stand with me so that the workers might eat? `:karl-marx:`
+
+### Camus
+
+![Camus](camus.png)
+
+When there's too much drama, play it cool with `:camus:`
+
+Example: It's 6pm on Friday and you want me to deploy what now? Don't you know we're all going to die one day? `:camus:`
